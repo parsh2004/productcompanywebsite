@@ -317,22 +317,22 @@ Stark Equipment creates customized equipment selections and offers lifecycle ser
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](./images/homepage.png)
 
 
 ### Products:
 
-![output](./images/product.jpg)
+![output](./images/products.png)
 
 
 ### People:
 
-![output](./images/people.jpg)
+![output](./images/people.png)
 
 
 ### Contact Us:
 
-![output](./images/contactus.jpg)
+![output](./images/contactus.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
