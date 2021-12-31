@@ -21,11 +21,11 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/logo.jfif");
+  background-image: url("/static/img/logo.jpg");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
-  color: #16d1ae;
+  color: #3c16e6;
 }
 
 .menu {
@@ -49,12 +49,12 @@ body {
   display: inline-block;
   margin-left: 10px;
   margin-right: 10px;
-  color: #16d1ae;
+  color: #ec370a;
 }
 
 .menuitem a {
   text-decoration: none;
-  color: #9c1018;
+  color: #fffefe;
 }
 
 .content {
@@ -133,5 +133,5 @@ body {
   text-align: center;
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
-  color: #9c1018;
+  color: #f7f2f2;
 }
